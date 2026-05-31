@@ -10,8 +10,8 @@
             background-color: #1e1e1e; 
             color: #ffffff;
         }
-        h1 { color: #4fc3f7; }
-        p { color: #e0e0e0; }
+        h1 { color: #009925; }
+        p { color: #F4B400; }
         /* 模拟 Python 终端的样式 */
         #python-terminal {
             background-color: #000000;
