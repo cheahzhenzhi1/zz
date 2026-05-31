@@ -7,7 +7,7 @@
         body { 
             font-family: 'Courier New', Courier, monospace; 
             padding: 30px; 
-            background-color: #1e1e1e; 
+            background-color: #C5B4E3; 
             color: #ffffff;
         }
         h1 { color: #009925; }
