@@ -30,6 +30,8 @@
     <h1>WELCOME!</h1>
     <p>I love you, because you are my son.</p >
 
+    <img src="black.png" alt"fuck you">
+
     <!-- 结果输出终端 -->
     <div id="python-terminal">等待输入...</div>
 
