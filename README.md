@@ -14,7 +14,7 @@
         p { color: #F4B400; }
         /* 模拟 Python 终端的样式 */
         #python-terminal {
-            background-color: #000000;
+            background-color: pink;
             border: 1px solid #333;
             padding: 15px;
             margin-top: 20px;
